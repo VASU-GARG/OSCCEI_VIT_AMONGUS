@@ -37,6 +37,9 @@ SOME GLIMPSE OF THE WEBSITE :
 1. HOME PAGE
  ![image](https://user-images.githubusercontent.com/77994881/109449252-f7a8f080-7a6d-11eb-8a59-8de2d02c2f75.png)
 
+2. CLUB/CHAPTER CARD TEMPLATE 
+ ![image](https://user-images.githubusercontent.com/77994881/109449391-52dae300-7a6e-11eb-95ec-ad17bbeafbd1.png)
+
   
 
 
