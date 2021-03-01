@@ -44,6 +44,7 @@ Even if you want to post a review or suggestion or any other comment regarding a
 
  ![image](https://user-images.githubusercontent.com/77994881/109450444-e44b5480-7a70-11eb-9734-8e93ba9df117.png)
  
+ <br><br>
 # **POSTER USED FOR PUBLICITY ON SOCIAL MEDIA HANDLES:** #
 ![image](https://user-images.githubusercontent.com/77994881/109450738-aef33680-7a71-11eb-95a4-c279f8778384.png)
 
