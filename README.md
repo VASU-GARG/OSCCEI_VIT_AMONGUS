@@ -39,7 +39,8 @@ Even if you want to post a review or suggestion or any other comment regarding a
 
 <br>
 2. CLUB/CHAPTER CARD TEMPLATE
-![image](https://user-images.githubusercontent.com/77994881/109449391-52dae300-7a6e-11eb-95ec-ad17bbeafbd1.png)
+3. <br>
+ ![image](https://user-images.githubusercontent.com/77994881/109449391-52dae300-7a6e-11eb-95ec-ad17bbeafbd1.png)
 
   
 
