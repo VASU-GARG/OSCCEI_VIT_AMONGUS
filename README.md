@@ -31,3 +31,7 @@ TARGET AUDIENCE :
 1. all the people who are looking to join a club but are confused among diffrent clubs/chapters 
 2. specially the FRESHERS
 3. Student who miss all the important webinars and workshops organised by diffrent clubs and chapters as they cannot find any information regarding them.
+
+
+SOME GLIMPSE OF THE WEBSITE :
+1. HOME PAGE
