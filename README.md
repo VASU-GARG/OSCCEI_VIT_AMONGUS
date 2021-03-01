@@ -43,6 +43,12 @@ Even if you want to post a review or suggestion or any other comment regarding a
 <br>
 
  ![image](https://user-images.githubusercontent.com/77994881/109450444-e44b5480-7a70-11eb-9734-8e93ba9df117.png)
+ 
+<br>
+# **POSTER USED FOR PUBLICITY ON SOCIAL MEDIA HANDLES** #
+![image](https://user-images.githubusercontent.com/77994881/109450614-558b0780-7a71-11eb-8d21-c8d5ef877648.png)
+![image](https://user-images.githubusercontent.com/77994881/109450623-5a4fbb80-7a71-11eb-8106-69a6cc3a54ee.png)
+
 
 
   
