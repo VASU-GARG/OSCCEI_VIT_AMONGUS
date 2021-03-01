@@ -52,4 +52,6 @@ Even if you want to post a review or suggestion or any other comment regarding a
 
   
 
+PDF PRESENTATION
+[OSCCEI PDF.pdf](https://github.com/VASU-GARG/OSCCEI_VIT_AMONGUS/files/6059272/OSCCEI.PDF.pdf)
 
