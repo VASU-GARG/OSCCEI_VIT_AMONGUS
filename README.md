@@ -3,7 +3,7 @@ OSCCEI-VIT (one stop for all clubs, chapter and events information)
 
 
 
-DEVELOPERS : 
+# **DEVELOPERS:** # 
 SHAHIL CHAUDHARY , VASU GARG , KUNAL SINGH
 
 
