@@ -35,6 +35,7 @@ Even if you want to post a review or suggestion or any other comment regarding a
 # **SOME GLIMPSE OF THE WEBSITE:** #
 
 1. HOME PAGE
+<br>
  ![image](https://user-images.githubusercontent.com/77994881/109449252-f7a8f080-7a6d-11eb-8a59-8de2d02c2f75.png)
 
 <br>
