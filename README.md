@@ -1,4 +1,4 @@
-NAME OF THE PROJECT :  
+**NAME OF THE PROJECT :**  
 OSCCEI-VIT (one stop for all clubs, chapter and events information)
 
 
