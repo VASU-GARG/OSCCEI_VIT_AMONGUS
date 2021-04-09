@@ -1,6 +1,6 @@
 
 body{
-    background-image:  backround.jpg;
+    background-image:  url(backround.jpg);
 }
 /* .club{
     background-image: url("https://technica.istevit.in/bg.jpg");
