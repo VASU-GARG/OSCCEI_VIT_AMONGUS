@@ -46,3 +46,7 @@ body{
 #main{
     background-image: linear-gradient(to bottom right, rgb(19, 7, 59), rgb(80, 16, 88));
 }
+
+#form{
+    backkround-color: #201929;
+}
