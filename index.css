@@ -1,12 +1,12 @@
 
 body{
-    backkround-color: #201929;
+    background-color: #201929;
 }
 .club{
-    backkround-color: #201929;
+    background-color: #201929;
 }
 .chapters{
-    backkround-color: #201929;;
+    background-color: #201929;;
 }
 .checked {
     color: orange;
@@ -20,7 +20,7 @@ body{
     padding: 3% 2%;
 }
 .event{
-    backkround-color: #201929;
+    background-color: #201929;
     padding: 3% 2%;
 }
 .featurette-divider{
