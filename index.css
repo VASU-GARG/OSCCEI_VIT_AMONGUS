@@ -2,12 +2,12 @@
 body{
     backkround-color: #201929;
 }
-/* .club{
-    background-image: url("https://technica.istevit.in/bg.jpg");
-} */
-/* .chapters{
-    background-image: url("https://technica.istevit.in/bg.jpg");
-}*/
+.club{
+    backkround-color: #201929;
+}
+.chapters{
+    backkround-color: #201929;;
+}
 .checked {
     color: orange;
   }
@@ -20,7 +20,7 @@ body{
     padding: 3% 2%;
 }
 .event{
-
+    backkround-color: #201929;
     padding: 3% 2%;
 }
 .featurette-divider{
